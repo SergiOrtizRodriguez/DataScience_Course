@@ -21,7 +21,7 @@ def arith(num1, num2, operation):
         print 'second number should be an int'
     
     assert 1, 'operation unrecognized'
-    '''test'''
+    '''test2'''
     
     if operation=='a':
         return num1+num2
