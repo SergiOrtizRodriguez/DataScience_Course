@@ -4,7 +4,7 @@
 	xsi:noNamespaceSchemaLocation="producto.xsd">
 <producto>
 <nombre>GLORT</nombre>
-<descripcion>Organizador mandos a distancia de segunda mano</descripcion>
+<descripcion>Organizador mandos a distancia</descripcion>
 <precio unidad="euro">6.50</precio>
 <medidas>
 	<longitudMedidas unidad="cm">93</longitudMedidas>
