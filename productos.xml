@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<productos 
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="producto.xsd">
+<producto>
+<nombre>GLORT</nombre>
+<descripcion>Organizador mandos a distancia</descripcion>
+<precio unidad="euro">6.50</precio>
+<medidas>
+	<longitudMedidas unidad="cm">93</longitudMedidas>
+	<anchoMedidas unidad="cm">32</anchoMedidas>
+</medidas>
+<caracteristicas>
+	<caracteristica>Espacio para 4 mandos a distancia y bolsillo posterior para los periódicos.</caracteristica>
+	<caracteristica>También se puede utilizar bajo el colchoncillo, ya que la parte metálica interior es fácil de quitar.</caracteristica>
+	<caracteristica>Los bolsillos se diferencian en A y B. Debe tenerse en cuenta que A&amp;gt;B. </caracteristica>
+</caracteristicas>
+<disenador>Henrik Preutz</disenador>
+<embalaje>
+	<bultos>1</bultos>
+	<referencia>001.669.05</referencia>
+	<ancho unidad="cm">9</ancho>
+	<fondo unidad="cm">9</fondo>
+	<alto unidad="cm">9</alto>
+	<peso unidad="kg">0.3</peso>
+	<cantidad>1</cantidad>
+</embalaje>
+<planeta>Producto que se puede reciclar o destinar a recuperación energética (si está disponible en tu zona)</planeta>
+<mantenimiento>Lavar a máquina a 40°C.No utilizar lejía. No secar en secadora. Planchar a temperatura baja. No limpiar en seco.</mantenimiento>
+<componentes>Componentes principales: 100% poliéster. Barra: Acero, Galvanizado</componentes>
+</producto>
+<producto>
+<nombre>TKRIBENT</nombre>
+<descripcion>Sujetalibros</descripcion>
+<precio unidad="euro">5.50</precio>
+<medidas>
+	<longitudMedidas unidad="cm">10</longitudMedidas>
+	<anchoMedidas unidad="cm">24</anchoMedidas>
+</medidas>
+<disenador>Carina Bengs</disenador>
+<embalaje>
+	<bultos>1</bultos>
+	<referencia>766.901.06 </referencia>
+	<peso unidad="kg">0.2</peso>
+	<cantidad>1</cantidad>
+</embalaje>
+<planeta>Material renovable (madera)</planeta>
+<mantenimiento>Secar con un paño seco.</mantenimiento>
+<componentes>Apoyo: Abedul macizo, Barniz acrílico incoloro
+Pie: Acero galvanizado, Revestimiento epoxi/poliéster en polvo.</componentes>
+</producto>
+
+<producto>
+<nombre>BLRIK</nombre>
+<descripcion>Silla giratoria</descripcion>
+<precio unidad="euro">17.99</precio>
+<medidas>
+	<probadoMedidas unidad="kg">110</probadoMedidas>
+	<anchoMedidas unidad="cm">61</anchoMedidas>
+	<fondoMedidas unidad="cm">61</fondoMedidas>
+	<alturaMedidas unidad="cm">89</alturaMedidas>
+</medidas>
+<caracteristicas>
+	<caracteristica>La altura de la silla se puede regular y te ofrece la máxima comodidad.</caracteristica>
+	<caracteristica>Para limpiarla solo hay que pasar un paño húmedo.</caracteristica>
+</caracteristicas>
+<disenador>H Preutz</disenador>
+<disenador>M Temple</disenador>
+<embalaje>
+	<bultos>1</bultos>
+	<referencia>202.108.94 </referencia>
+	<ancho unidad="cm">40</ancho>
+	<fondo unidad="cm">16</fondo>
+	<alto unidad="cm">42</alto>
+	<peso unidad="kg">5.2</peso>
+	<cantidad>1</cantidad>
+</embalaje>
+<documentos>
+	<documento>
+		<tipo>Instrucciones de montaje</tipo>
+		<url>http://wwww.mitienda.com/silla/instrucciones.pdf</url>
+	</documento>
+</documentos>
+<planeta>Más del 50% (en peso) del plástico contenido en este producto está fabricado con plástico reciclado.</planeta>
+<componentes>Asiento/ Componentes principales: Plástico de polipropileno.
+Estructura, asiento/ Receptor base/ Pata base de estrella: Plástico de poliamida reforzado. Componente 01: Acero, Galvanizado</componentes>
+</producto>
+</productos>
