@@ -5,7 +5,7 @@ int main(){
   double z_min, z_max, z_step, z;
   int z_index;
 
-  z_max = 3.5;
+  z_max = 6.3;
   z_min = 2.0;
   z_step = 0.000428571;
   z = 2.59325;
